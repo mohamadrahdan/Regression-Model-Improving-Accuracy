@@ -61,10 +61,11 @@ These regression principles form the foundation of GeoAI and Remote Sensing mode
 ## Evaluation Example
 | Metric | Example Value |
 |--------|----------------|
-| MAE | 2.45 |
-| MSE | 7.83 |
-| RMSE | 2.80 |
-| R² Score | 0.91 |
+| MAE | 0.58 |
+| MSE | 0.54 |
+| RMSE | 0.73 |
+| R² Score | 0.97 |
+
 
 ---
 
