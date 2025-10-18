@@ -70,9 +70,18 @@ These regression principles form the foundation of GeoAI and Remote Sensing mode
 ---
 
 ## Visualization
-![Preview](preview.png)
-![Preview](preview1.png)
 
+**1. Relationship Between Features and Target Variable (Selling_Price)**
+![Preview](preview.png)
+
+This figure shows the scatter plots between each independent variable and the target (Selling_Price).  
+It helps visualize linear relationships and assess the strength of correlation before training.
+
+**2. Impact of Feature Power on Model Accuracy (R² Score Analysis)**
+![Preview](preview2.png)
+
+This figure illustrates how polynomial feature transformations (powers 1–9) affect model performance.  
+Higher powers may capture non-linear trends but can also lead to overfitting if extended too far.
 
 ---
 
