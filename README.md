@@ -96,7 +96,6 @@ Higher powers may capture non-linear trends but can also lead to overfitting if 
 ## Run the Notebook
 ```bash
 jupyter notebook "Linear Regression model.ipynb"
-'''
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
