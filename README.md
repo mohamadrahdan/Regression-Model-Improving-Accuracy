@@ -96,6 +96,13 @@ Higher powers may capture non-linear trends but can also lead to overfitting if 
 ## Run the Notebook
 ```bash
 jupyter notebook "Linear Regression model.ipynb"
+```
+
+## Author
+Mohamad Rahdan Mofrad
+Postdoctoral Researcher – University of Isfahan
+🌐 [Kaggle Profile](https://www.kaggle.com/mohammadrahdanmofrad) | [LinkedIn](https://www.linkedin.com/in/mo-rahdan-149554265/)
+
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
