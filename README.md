@@ -101,7 +101,7 @@ jupyter notebook "Linear Regression model.ipynb"
 ## Author
 Mohamad Rahdan Mofrad
 Postdoctoral Researcher – University of Isfahan
-🌐 [Kaggle Profile](https://www.kaggle.com/mohammadrahdanmofrad) | [LinkedIn](https://www.linkedin.com/in/mo-rahdan-149554265/)
+[Kaggle Profile](https://www.kaggle.com/mohammadrahdanmofrad) | [LinkedIn](https://www.linkedin.com/in/mo-rahdan-149554265/)
 
 
 ## License
