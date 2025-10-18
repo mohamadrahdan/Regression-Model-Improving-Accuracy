@@ -1,4 +1,4 @@
-# Regression Model — Improving Model Accuracy through Feature Engineering
+# Regression Model: Improving Model Accuracy through Feature Engineering
 
 This project demonstrates how feature engineering, data scaling, and evaluation metrics can significantly improve the accuracy of regression models.  
 The example dataset focuses on car prices, but the same methodology applies to environmental and geospatial datasets such as predicting NDVI from rainfall or modeling land subsidence based on terrain parameters.
