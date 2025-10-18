@@ -1,5 +1,3 @@
-# Linear Regression model
-A simple Linear Regression model developed from a Kaggle notebook for predictive analysis
 # Regression Model — Improving Model Accuracy through Feature Engineering
 
 This project demonstrates how feature engineering, data scaling, and evaluation metrics can significantly improve the accuracy of regression models.  
@@ -60,3 +58,29 @@ These regression principles form the foundation of GeoAI and Remote Sensing mode
 
 ---
 
+## Evaluation Example
+| Metric | Example Value |
+|--------|----------------|
+| MAE | 2.45 |
+| MSE | 7.83 |
+| RMSE | 2.80 |
+| R² Score | 0.91 |
+
+---
+
+## Visualization
+![Preview](preview.png)
+
+---
+
+## Tech Stack
+- Python 3.x  
+- pandas, numpy  
+- scikit-learn  
+- matplotlib, seaborn
+
+---
+
+## Run the Notebook
+```bash
+jupyter notebook "Linear Regression model.ipynb"
