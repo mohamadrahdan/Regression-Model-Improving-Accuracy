@@ -95,7 +95,7 @@ Higher powers may capture non-linear trends but can also lead to overfitting if 
 
 ## Run the Notebook
 ```bash
-jupyter notebook "Linear Regression model.ipynb"
+jupyter notebook "linear_regression_model.ipynb"
 ```
 
 ## Author
