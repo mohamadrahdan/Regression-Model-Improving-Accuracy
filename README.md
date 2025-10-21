@@ -98,11 +98,16 @@ Higher powers may capture non-linear trends but can also lead to overfitting if 
 jupyter notebook "linear_regression_model.ipynb"
 ```
 
+## Roadmap
+- Compare Linear Regression with Ridge and Lasso using cross-validation.
+- Export the trained model as `model.pkl` and add a minimal inference example.
+- Add a reproducible script or Makefile target to regenerate `preview.png` and `preview2.png`.
+- Create a GeoAI variant: apply the same workflow to a small rainfall–NDVI sample dataset.
+
 ## Author
 Mohamad Rahdan Mofrad
 Postdoctoral Researcher – University of Isfahan
 [Kaggle Profile](https://www.kaggle.com/mohammadrahdanmofrad) | [LinkedIn](https://www.linkedin.com/in/mo-rahdan-149554265/)
-
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
