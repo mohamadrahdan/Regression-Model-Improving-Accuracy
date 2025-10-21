@@ -100,7 +100,7 @@ jupyter notebook "linear_regression_model.ipynb"
 
 ## Roadmap
 - Compare Linear Regression with Ridge and Lasso using cross-validation.
-- Export the trained model as `model.pkl` and add a minimal inference example.
+- Exported and tested the trained model (`model.pkl`). *Completed on Oct 21, 2025*.
 - Add a reproducible script or Makefile target to regenerate `preview.png` and `preview2.png`.
 - Create a GeoAI variant: apply the same workflow to a small rainfall–NDVI sample dataset.
 
