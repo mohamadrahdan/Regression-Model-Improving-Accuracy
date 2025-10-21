@@ -105,8 +105,7 @@ jupyter notebook "linear_regression_model.ipynb"
 - Create a GeoAI variant: apply the same workflow to a small rainfall–NDVI sample dataset.
 
 ## Author
-Mohamad Rahdan Mofrad
-Postdoctoral Researcher – University of Isfahan
+Mohamad Rahdan Mofrad - Postdoctoral Researcher, University of Isfahan
 [Kaggle Profile](https://www.kaggle.com/mohammadrahdanmofrad) | [LinkedIn](https://www.linkedin.com/in/mo-rahdan-149554265/)
 
 ## License
